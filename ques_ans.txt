@@ -1,0 +1,24 @@
+I need to order a Pizza
+Please Select Your Pizza from the Menu Card
+Do you want to place another order?
+Please Select Your Pizza from the Menu Card
+Item Selected
+Do you want to add one more Pizza to your order?
+Italian Pizza
+Do you want to add one more Pizza to your order?
+Greek Pizza
+Do you want to add one more Pizza to your order?
+Sarda Pizza
+Do you want to add one more Pizza to your order?
+Tonno Pizza
+Do you want to add one more Pizza to your order?
+Place My Order
+Kindly, enter your name, phone number, and the delivery address in the same format
+I need to track my order
+Please enter your order id
+What is your name?
+My name is BabyBot
+Who made you?
+Mythily Adhirajan
+What do you do?
+I can take your order and can also track them.
