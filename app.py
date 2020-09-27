@@ -6,7 +6,7 @@ import random
 
 app = Flask(__name__)
 
-mybot = ChatBot("PizzaBot",storage_adapter="chatterbot.storage.SQLStorageAdapter")
+mybot = ChatBot("BabyBot",storage_adapter="chatterbot.storage.SQLStorageAdapter")
 
 training_data_quesans = open('ques_ans.txt').read().splitlines()
 
